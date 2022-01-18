@@ -2,8 +2,8 @@
 
 # Add this script to your wm startup file.
 
-DIR="$HOME/.config/polybar/myConfig"
-
+#DIR="$HOME/.config/polybar/myConfig"
+DIR="$HOME/.config/polybar/myNord/myConfig"
 # Terminate already running bar instances
 killall -q polybar
 
